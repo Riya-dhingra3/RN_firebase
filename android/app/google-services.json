@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "212285871576",
+    "project_id": "instagramclone-2b253",
+    "storage_bucket": "instagramclone-2b253.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212285871576:android:a178ddb3e9f7f7c54f4ead",
+        "android_client_info": {
+          "package_name": "com.riyadhingra.instagra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "212285871576-l610eo7ss6etgkcc7folec4trashcank.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv_weOhl968w4U_m7YdGW3o6_G2ApHuGM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "212285871576-l610eo7ss6etgkcc7folec4trashcank.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "212285871576-60rk2qcob5mmelkqivp56v4boas1m6jf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "InstagramClone"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212285871576:android:733405faca2dfdad4f4ead",
+        "android_client_info": {
+          "package_name": "com.riyadhingra.instagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "212285871576-l610eo7ss6etgkcc7folec4trashcank.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv_weOhl968w4U_m7YdGW3o6_G2ApHuGM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "212285871576-l610eo7ss6etgkcc7folec4trashcank.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "212285871576-60rk2qcob5mmelkqivp56v4boas1m6jf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "InstagramClone"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

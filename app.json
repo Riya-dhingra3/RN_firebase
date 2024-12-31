@@ -9,13 +9,17 @@
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.riyadhingra.mybareworkflowapp",
+      "googleServicesFile": "./ios/mybareworkflowapp/GoogleService-Info.plist"
     },
     "android": {
+      "googleServicesFile": "./android/app/google-services.json",
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.riyadhingra.mybareworkflowapp"
     },
     "web": {
       "bundler": "metro",
